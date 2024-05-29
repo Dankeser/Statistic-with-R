@@ -1,6 +1,4 @@
 # von Mises Wahrscheinlichkeit
-
-
 # Diese Funktion berechnet den Zusammhang zwischen Anzahl von Beobachtungen und Wahrscheinlichkeit. Je mehr Beobachtungen gemacht wird, desto mehr wird die relative Häufigkeit sich realer Wahrscheinlichkeit annähern.
 my.VonMises <- function(n){
   x <- sample(1:10, size=n, replace=TRUE)
