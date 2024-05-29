@@ -9,7 +9,7 @@ In die Funktionen werden nur 2 Parameter reingegeben, n und legend.
 
 ## Beispiele 
 
-Man kann diese Funktion dann benutzen, wenn man main.R im Hand hat.
+Man kann die Funktionen dann benutzen, wenn man main.R im Hand hat.
 
 ### Mittelwert:
 ```R
